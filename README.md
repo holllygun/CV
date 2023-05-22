@@ -1,6 +1,6 @@
 # Обо мне
 2000 г.р., город Москва 
-![](../cv/wek5tHiRESs.jpgwek5tHiRESs.jpg)
+![](wek5tHiRESs.jpg)
 ## Образование
 Бакалавриат [РЭУ им. Г.В. Плеханова](https://xn--p1ag3a.xn--p1ai/)
 ## Хобби
